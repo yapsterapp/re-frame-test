@@ -1,4 +1,4 @@
-(defproject day8.re-frame/test "0.1.6-SNAPSHOT"
+(defproject employeerepublic/re-frame-test "0.1.6-SNAPSHOT"
   :description "re-frame testing tools"
   :url "https://github.com/Day8/re-frame-test"
   :license {:name "MIT"
@@ -54,6 +54,3 @@
 
   :aliases {"karma-once" ["do" "clean," "cljsbuild" "once" "karma,"]
             "karma-auto" ["do" "clean," "cljsbuild" "auto" "karma,"]})
-
-
-
